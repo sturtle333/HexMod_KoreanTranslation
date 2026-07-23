@@ -1112,11 +1112,11 @@
           
           entity_or_vector: "an entity or a vector",
           
-          unknown: "(unknown, uh-oh, this is a bug)",
+          unknown: "(알 수 없음, 오 이런, 이것은 버그입니다.)",
         },
         
-        numvec: "a number or vector",
-        numlist: "an integer or list",
+        numvec: "숫자 혹은 벡터",
+        numlist: "정수 혹은 리스트",
         "list.pattern": "a list of patterns",
         
         double: {
@@ -1278,11 +1278,11 @@
       spellbook: "주문서",
       
       scroll: "스크롤",
-      slate: "Slates",
+      slate: "석판",
       
       // why is this called "hexcasting"?
       hexcasting: "시전 도구",
-      ancient_cyphers: "Ancient Cyphers",
+      ancient_cyphers: "고대의 사이퍼",
       phials: 메디아가 든 유리병",
       potions: "마법 물약",
       pigments: "색소",
@@ -1302,18 +1302,18 @@
       // and the actions
       readers_guide: "How to Read This Section",
       // ops
-      basics_pattern: "Basic Patterns",
-      numbers: "Number Literals",
-      math: "Mathematics",
-      advanced_math: "Advanced Mathematics",
-      sets: "Sets",
-      consts: "Constants",
-      stackmanip: "Stack Manipulation",
-      logic: "Logical Operators",
-      entities: "Entities",
-      lists: "List Manipulation",
-      patterns_as_iotas: "Escaping Patterns",
-      readwrite: "Reading and Writing",
+      basics_pattern: "기본적인 패턴",
+      numbers: "숫자값",
+      math: "수학",
+      advanced_math: "고급 수학",
+      sets: "집합",
+      consts: "상수",
+      stackmanip: "스택 조작",
+      logic: "논리 연산자",
+      entities: "엔티티",
+      lists: "리스트 조작",
+      patterns_as_iotas: "규격외 패턴",
+      readwrite: "읽기 및 쓰기",
       meta: "Meta-Evaluation",
       circle_patterns: "Spell Circle Patterns",
       akashic_patterns: "Akashic Patterns",
